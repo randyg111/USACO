@@ -1,1 +1,1 @@
-# usaco
+# USACO
